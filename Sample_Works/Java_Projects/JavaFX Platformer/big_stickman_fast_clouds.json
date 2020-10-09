@@ -1,0 +1,223 @@
+{
+  "_comment": "This is the sample JSON file. You must use this format for your JSON files as we will be using similar formats when marking your assignment. Anything starting with an underscore (like this _comment) should be ignored.",
+  "stickmanSize": "giant",
+  "_stickmanSizeComment": "Your main character can be tiny, normal, large, or giant. What pixel dimensions these match can be up to you.",
+  "cloudVelocity": 32,
+  "_cloudVelocityComment": "Clouds should move the given number of pixels per second. This must be a positive double.",
+  "finalLevel": false ,
+  "_finalLevelComment": "Is this the final level?",
+  "nextLevel": "LevelTwo.json",
+  "_nextLevelComment": "This will only be checked if the current level is not the final level. Links to the next level.",
+  "idealTime": 100,
+  "_idealTimeComment": "A target time to complete the level in",
+  "levelName" : "Giant Level",
+  "_levelNameComment" : "Name of the level",
+
+  "level": {
+    "stickmanPos": {
+      "x": 20.0
+    },
+    "_stickmanPosComment": "Stickman should start at the x position indicated, with their y position being on your 'floor'. This must be a positive double.",
+    "height": 400,
+    "_heightComment": "Height of the level",
+    "width": 700,
+    "_widthComment": "Width of the level",
+    "floorHeight": 300,
+    "_floorHeightComment": "The height of the floor for the level",
+    "entities": [
+      {
+        "name": "cloud",
+        "position": {
+          "x": 20,
+          "y": 20
+        }
+      },
+      {
+        "name": "cloud",
+        "position": {
+          "x": 250,
+          "y": 120
+        }
+      },
+      {
+        "name": "cloud",
+        "position": {
+          "x": 80,
+          "y": 155
+        }
+      },
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 260,
+          "y": 270
+        }
+      },
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 350,
+          "y": 250
+        }
+      },
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 400,
+          "y": 220
+        }
+      },
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 660,
+          "y": 150
+        }
+      },
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 450,
+          "y": 150
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "random",
+        "position": {
+          "x": 550,
+          "y": 10
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "random",
+        "position": {
+          "x": 500,
+          "y": 10
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "guard",
+        "position": {
+          "x": 600,
+          "y": 10
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 300,
+          "y": 10
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 0
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 20
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 40
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 60
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 80
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 100
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 120
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 140
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 160
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 180
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 200
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 220
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 240
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 260
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 280
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3cc8a9a-acba-48d8-9cd0-4b8649b67bf9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/VendingMachine30/userItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/VendingMachine30.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/VendingMachine30.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/AbstractItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/AbstractItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Beverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Beverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Chips.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Chips.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Chocolate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Chocolate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/InputHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/InputHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Lolly.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Lolly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/VendingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/VendingMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/InputHandlerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/InputHandlerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/ItemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/ItemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/PrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/PrinterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/UserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/UserTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/VendingMachineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/VendingMachine30/VendingMachineTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jacoco/test.exec" beforeDir="false" afterPath="$PROJECT_DIR$/build/jacoco/test.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/AbstractItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/AbstractItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/AbstractItem.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/AbstractItem.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/App.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/App.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/App.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/App.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Beverage.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Beverage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Beverage.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Beverage.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Chips.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Chips.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Chips.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Chips.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Chocolate.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Chocolate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Chocolate.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Chocolate.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/InputHandler.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/InputHandler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/InputHandler.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/InputHandler.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Lolly.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Lolly.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Lolly.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Lolly.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Printer.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Printer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Printer.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/Printer.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/User.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/User.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/User.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/User.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/VendingMachine.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/VendingMachine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/VendingMachine.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/VendingMachine.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/VendingMachine30/index.source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/jacocoTestReport.csv" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/jacocoTestReport.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.InputHandlerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.InputHandlerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.ItemTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.ItemTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.PrinterTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.PrinterTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.UserTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.UserTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.VendingMachineTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/VendingMachine30.VendingMachineTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/VendingMachine30.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/VendingMachine30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.InputHandlerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.InputHandlerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.ItemTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.ItemTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.PrinterTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.PrinterTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.UserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.UserTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.VendingMachineTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-VendingMachine30.VendingMachineTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VendingMachine30/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingMachine30/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VendingMachine30/ItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VendingMachine30/ItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VendingMachine30/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VendingMachine30/PrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VendingMachine30/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VendingMachine30/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VendingMachine30/VendingMachineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VendingMachine30/VendingMachineTest.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/VendingMachine30/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VendingMachine30/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingMachine30/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VendingMachine30/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingMachine30/Printer.java" afterDir="false" />
+>>>>>>> 288701fda6da9b89c6cfd1b7b69365656a5ffd0f
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SPk16rBW87lSQRVQ45N5sLQRaE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="VendingMachine30" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\agileTeam30VM123223421\src\main" />
+      <recent name="$PROJECT_DIR$/src/test/java/VendingMachine30" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.UserTest">
+    <configuration name="ItemTest.testChips" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;VendingMachine30.ItemTest.testChips&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ItemTest.testLolly" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;VendingMachine30.ItemTest.testLolly&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PrinterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;VendingMachine30.PrinterTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;VendingMachine30.UserTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="VendingMachineTest.printAllItemOptions" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;VendingMachine30.VendingMachineTest.printAllItemOptions&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.UserTest" />
+        <item itemvalue="Gradle.ItemTest.testChips" />
+        <item itemvalue="Gradle.ItemTest.testLolly" />
+        <item itemvalue="Gradle.VendingMachineTest.printAllItemOptions" />
+        <item itemvalue="Gradle.PrinterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3cc8a9a-acba-48d8-9cd0-4b8649b67bf9" name="Default Changelist" comment="" />
+      <created>1571472399369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571472399369</updated>
+      <workItem from="1571707541502" duration="2000" />
+      <workItem from="1571707705993" duration="11000" />
+      <workItem from="1571707906578" duration="706000" />
+      <workItem from="1572044330029" duration="8637000" />
+      <workItem from="1572150893966" duration="5217000" />
+      <workItem from="1572241708564" duration="2886000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed concurrent exception">
+      <created>1571708183898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571708183898</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed a small userinterface error">
+      <created>1572151158245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572151158245</updated>
+    </task>
+    <task id="LOCAL-00003" summary="password update works. why was it deleted?">
+      <created>1572152237994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572152237994</updated>
+    </task>
+    <task id="LOCAL-00004" summary="u can now alter items">
+      <created>1572152801082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572152801082</updated>
+    </task>
+    <task id="LOCAL-00005" summary="You can now validly alter stock and it is remembered">
+      <created>1572160812260</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572160812260</updated>
+    </task>
+    <task id="LOCAL-00006" summary="You can now validly fill machine completely">
+      <created>1572160922385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572160922385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="You can now validly fill machine completely">
+      <created>1572160991218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572160991218</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed the capacity message which stated &quot;Please input a value of less than ten&quot; to &quot;Please input a value of ten or less&quot; (as 10 is still a valid stock quantity)">
+      <created>1572242397476</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572242397476</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed recurrent issue of items being selected from incorrect screen (see issues #4 &amp; #5)">
+      <created>1572242868156</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572242868156</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Removed quotation marks from Input.txt as they are not needed and were causing items to be printed with these quotation marks. &#10;&#10;For example:&#10;&lt;&lt;=========----&gt; 75% EXECUTING [15s]&#10;The items in you cart are:&#10;1. &quot;Coke x 2 ($3.50 each)&#10;   ^">
+      <created>1572243149600</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572243149600</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed concurrent exception" />
+    <MESSAGE value="fixed a small userinterface error" />
+    <MESSAGE value="password update works. why was it deleted?" />
+    <MESSAGE value="u can now alter items" />
+    <MESSAGE value="You can now validly alter stock and it is remembered" />
+    <MESSAGE value="You can now validly fill machine completely" />
+    <MESSAGE value="Fixed the capacity message which stated &quot;Please input a value of less than ten&quot; to &quot;Please input a value of ten or less&quot; (as 10 is still a valid stock quantity)" />
+    <MESSAGE value="Fixed recurrent issue of items being selected from incorrect screen (see issues #4 &amp; #5)" />
+    <MESSAGE value="Removed quotation marks from Input.txt as they are not needed and were causing items to be printed with these quotation marks. &#10;&#10;For example:&#10;&lt;&lt;=========----&gt; 75% EXECUTING [15s]&#10;The items in you cart are:&#10;1. &quot;Coke x 2 ($3.50 each)&#10;   ^" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed quotation marks from Input.txt as they are not needed and were causing items to be printed with these quotation marks. &#10;&#10;For example:&#10;&lt;&lt;=========----&gt; 75% EXECUTING [15s]&#10;The items in you cart are:&#10;1. &quot;Coke x 2 ($3.50 each)&#10;   ^" />
+  </component>
+</project>

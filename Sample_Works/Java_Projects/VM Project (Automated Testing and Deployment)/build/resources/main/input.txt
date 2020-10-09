@@ -1,0 +1,2 @@
+Popcorn,2.5,3,chips,06/07/2023
+Lollipop,1.5,10,lolly,31/01/2023

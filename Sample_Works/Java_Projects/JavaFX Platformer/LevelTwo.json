@@ -1,0 +1,475 @@
+{
+  "_comment": "This is the sample JSON file. You must use this format for your JSON files as we will be using similar formats when marking your assignment. Anything starting with an underscore (like this _comment) should be ignored.",
+  "stickmanSize": "normal",
+  "_stickmanSizeComment": "Your main character can be tiny, normal, large, or giant. What pixel dimensions these match can be up to you.",
+  "cloudVelocity": 5.0,
+  "_cloudVelocityComment": "Clouds should move the given number of pixels per second. This must be a positive double.",
+  "finalLevel": false ,
+  "_finalLevelComment": "Is this the final level?",
+  "nextLevel": "LevelThree.json",
+  "_nextLevelComment": "This will only be checked if the current level is not the final level. Links to the next level.",
+  "idealTime": 30,
+  "_idealTimeComment": "A target time to complete the level in. MUST be > 0",
+  "levelName" : "QUITE HARD",
+  "_levelNameComment" : "Name of the level",
+  "level": {
+    "stickmanPos": {
+      "x": 20.0
+    },
+    "_stickmanPosComment": "Stickman should start at the x position indicated, with their y position being on your 'floor'. This must be a positive double.",
+    "height": 400,
+    "_heightComment": "Height of the level",
+    "width": 600,
+    "_widthComment": "Width of the level",
+    "floorHeight": 300,
+    "_floorHeightComment": "The height of the floor for the level",
+
+    "entities": [
+      {
+        "name": "cloud",
+        "position": {
+          "x": 10,
+          "y": 20
+        }
+      },
+      {
+        "name": "cloud",
+        "position": {
+          "x": 100,
+          "y": 40
+        }
+      },
+      {
+        "name": "cloud",
+        "position": {
+          "x": 400,
+          "y": 100
+        }
+      },
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 70,
+          "y": 260
+        }
+      },
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 70,
+          "y": 200
+        }
+      },
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 70,
+          "y": 150
+        }
+      },
+
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 300,
+          "y": 100
+        }
+      },
+
+
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 500,
+          "y": 100
+        }
+      },
+
+
+      {
+        "name": "staticPlatform",
+        "position": {
+          "x": 650,
+          "y": 100
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "random",
+        "position": {
+          "x": 550,
+          "y": 10
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "random",
+        "position": {
+          "x": 500,
+          "y": 300
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "guard",
+        "position": {
+          "x": 600,
+          "y": 10
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 300,
+          "y": 10
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "random",
+        "position": {
+          "x": 100,
+          "y": 50
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "random",
+        "position": {
+          "x": 150,
+          "y": 15
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "guard",
+        "position": {
+          "x": 250,
+          "y": 15
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "random",
+        "position": {
+          "x": 350,
+          "y": 15
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "guard",
+        "position": {
+          "x": 450,
+          "y": 15
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "random",
+        "position": {
+          "x": 150,
+          "y": 15
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "guard",
+        "position": {
+          "x": 550,
+          "y": 15
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "guard",
+        "position": {
+          "x": 650,
+          "y": 0
+        }
+      },
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 430,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 530,
+          "y": 0
+        }
+      },
+
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 630,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 330,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 700,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 330,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 725,
+          "y": 0
+        }
+      },
+
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 740,
+          "y": 0
+        }
+      },
+
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 711,
+          "y": 0
+        }
+      },
+
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 678,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 666,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 534,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 342,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 111,
+          "y": 0
+        }
+      },
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 70,
+          "y": 0
+        }
+      },
+
+
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 300,
+          "y": 0
+        }
+      },
+
+
+
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 500,
+          "y": 0
+        }
+      },
+
+
+      {
+        "name": "slime",
+        "movement": "stay",
+        "position": {
+          "x": 600,
+          "y": 0
+        }
+      },
+
+
+
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 0
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 20
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 40
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 60
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 80
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 100
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 120
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 140
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 160
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 180
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 200
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 220
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 240
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 260
+        }
+      },
+      {
+        "name": "goal",
+        "position": {
+          "x": 750,
+          "y": 280
+        }
+      }
+    ],
+    "_entitiesComment": "A list of entities"
+  }
+}
